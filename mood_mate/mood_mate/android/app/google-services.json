@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "398992031545",
+    "project_id": "mood-mate-hwmtub",
+    "storage_bucket": "mood-mate-hwmtub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398992031545:android:d2f494942f54a813e132e8",
+        "android_client_info": {
+          "package_name": "com.skynxtwebsolutions.moodmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398992031545-jltekdhv9saj3n1se1khkbj0k99jhcm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skynxtwebsolutions.moodmate",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "398992031545-0ir7llir6q00u17nrt3dc6cq094bh8qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCMiHzz0R8r5RHqCD6ZWlmEb0xe6eMO-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398992031545-0ir7llir6q00u17nrt3dc6cq094bh8qb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "398992031545-17fnuar054gc0kjs8qcuejhdkjacuopp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.skynxtwebsolutions.moodmate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
