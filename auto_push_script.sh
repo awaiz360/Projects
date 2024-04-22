@@ -1,6 +1,6 @@
 #!/bin/bash
 # echo "# Projects" >> README.md
-# git init
+git init
 # git add README.md
 git add .
 git commit -m "commit # $1"
