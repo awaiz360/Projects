@@ -1,0 +1,8 @@
+build
+.vs/
+.vscode/
+
+CMakeSettings.json
+
+#Local_Test:
+resources/
